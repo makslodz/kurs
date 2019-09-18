@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "title": "gra 2 ",
+      "author": "martin kjdafkjdsafkjsdfjf",
+      "description": "ssssssssssss",
+      "type": "3",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "selectGatunek": [
+    {
+      "id": 1,
+      "name": "Kryminał"
+    },
+    {
+      "id": 2,
+      "name": "Powieść Historyczna"
+    },
+    {
+      "id": 3,
+      "name": "Romans"
+    },
+    {
+      "id": 4,
+      "name": "Reportaż"
+    }
+  ]
+}
